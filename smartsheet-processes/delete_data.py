@@ -1,3 +1,5 @@
+# Copyright 2020, DynamicDuo LLC, All rights reserved.
+
 # Import the dependencies needed for the process
 import yaml
 import smartsheet

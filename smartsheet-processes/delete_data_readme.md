@@ -43,3 +43,6 @@
 
 ### You should be up and running!
 If you run into any issues, please reach out to us and we will do our best to get you up and running as well as improve the documentation for future users!
+
+
+### Copyright 2020, DynamicDuo LLC, All rights reserved.
