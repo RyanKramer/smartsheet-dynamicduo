@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../smartsheet-processes/.idea/smartsheet-delete-files.iml" filepath="$PROJECT_DIR$/../smartsheet-processes/.idea/smartsheet-delete-files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/smartsheet-delete-files.iml" filepath="$PROJECT_DIR$/.idea/smartsheet-delete-files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/smartsheet-processes.iml" filepath="$PROJECT_DIR$/.idea/smartsheet-processes.iml" />
     </modules>
   </component>
 </project>
